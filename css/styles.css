@@ -1,0 +1,20 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #73a77a;
+}
+
+/* My info section */
+
+.My-info-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hello,
+.name,
+.friendly {
+  font-weight: bold;
+  background: #048446;
+  padding: 5px 15px;
+}
